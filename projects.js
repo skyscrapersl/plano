@@ -1,5 +1,5 @@
 const data1 = ["pngmx", "pngbr", "gskjp", "ccaau", "beiersdorfco", "sinoth", "diageous", "pepsicoes", "sanofies", "diageotw", "beiersdorfin"];
-const data2 = U2FsdGVkX1/u9yzOuoRuqggVCptT/ytkVbuRhUSYlRp+2VguY86r3PzJaB5ZmaYAMP2erBKxjpbrNRWgdRDF9oRd+cRiCH/Izd2XrJVxQfDS2V4PBo92eAZ9YFJItxDS;
+const data2 = U2FsdGVkX1+7XqlXSQ4U9qfdJQg8+HUHqDRtpKxg/B4pExbLQelWyH7LaV1zswErypk7mRkH7k/YglzXVUAgDePGIob7k+lbwCvwbjDOdrOHNkwX8bqgv0xeKxXaQLC+SXOU2szw77lKtuqRLSRQsw==;
 const data3 = ["ONGOING"];
 
 
